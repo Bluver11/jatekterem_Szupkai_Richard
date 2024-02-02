@@ -1,0 +1,402 @@
+[
+	{
+		"name": "Nataline",
+		"points": 10
+	},
+	{
+		"name": "Libbie",
+		"points": 45
+	},
+	{
+		"name": "Bill",
+		"points": 53
+	},
+	{
+		"name": "Isa",
+		"points": 97
+	},
+	{
+		"name": "Bertine",
+		"points": 76
+	},
+	{
+		"name": "Margette",
+		"points": 88
+	},
+	{
+		"name": "Chrystel",
+		"points": 59
+	},
+	{
+		"name": "Agathe",
+		"points": 73
+	},
+	{
+		"name": "Heida",
+		"points": 48
+	},
+	{
+		"name": "Loree",
+		"points": 46
+	},
+	{
+		"name": "Celestyna",
+		"points": 46
+	},
+	{
+		"name": "Wynne",
+		"points": 74
+	},
+	{
+		"name": "Jacquetta",
+		"points": 95
+	},
+	{
+		"name": "Concettina",
+		"points": 5
+	},
+	{
+		"name": "Rayna",
+		"points": 2
+	},
+	{
+		"name": "Tori",
+		"points": 11
+	},
+	{
+		"name": "Thalia",
+		"points": 74
+	},
+	{
+		"name": "Aimil",
+		"points": 91
+	},
+	{
+		"name": "Marcelline",
+		"points": 5
+	},
+	{
+		"name": "Nessie",
+		"points": 44
+	},
+	{
+		"name": "Maridel",
+		"points": 20
+	},
+	{
+		"name": "Hyacinthe",
+		"points": 61
+	},
+	{
+		"name": "Claresta",
+		"points": 81
+	},
+	{
+		"name": "Kary",
+		"points": 63
+	},
+	{
+		"name": "Rosaline",
+		"points": 54
+	},
+	{
+		"name": "Calla",
+		"points": 19
+	},
+	{
+		"name": "Lexine",
+		"points": 54
+	},
+	{
+		"name": "Chloris",
+		"points": 56
+	},
+	{
+		"name": "Viviene",
+		"points": 49
+	},
+	{
+		"name": "Thalia",
+		"points": 63
+	},
+	{
+		"name": "Melisent",
+		"points": 83
+	},
+	{
+		"name": "Juliane",
+		"points": 8
+	},
+	{
+		"name": "Judy",
+		"points": 41
+	},
+	{
+		"name": "Hope",
+		"points": 64
+	},
+	{
+		"name": "Pamella",
+		"points": 6
+	},
+	{
+		"name": "Annice",
+		"points": 79
+	},
+	{
+		"name": "Dorene",
+		"points": 29
+	},
+	{
+		"name": "Asia",
+		"points": 17
+	},
+	{
+		"name": "Karina",
+		"points": 96
+	},
+	{
+		"name": "Karlee",
+		"points": 57
+	},
+	{
+		"name": "Ursulina",
+		"points": 81
+	},
+	{
+		"name": "Juliane",
+		"points": 71
+	},
+	{
+		"name": "Pollyanna",
+		"points": 44
+	},
+	{
+		"name": "Fernande",
+		"points": 96
+	},
+	{
+		"name": "Desirae",
+		"points": 7
+	},
+	{
+		"name": "Sharlene",
+		"points": 9
+	},
+	{
+		"name": "Sharai",
+		"points": 91
+	},
+	{
+		"name": "Lila",
+		"points": 61
+	},
+	{
+		"name": "Zia",
+		"points": 85
+	},
+	{
+		"name": "Angelique",
+		"points": 39
+	},
+	{
+		"name": "Kayla",
+		"points": 20
+	},
+	{
+		"name": "Susan",
+		"points": 77
+	},
+	{
+		"name": "Shaylyn",
+		"points": 46
+	},
+	{
+		"name": "Jolyn",
+		"points": 65
+	},
+	{
+		"name": "Dotty",
+		"points": 56
+	},
+	{
+		"name": "Mahalia",
+		"points": 1
+	},
+	{
+		"name": "Minda",
+		"points": 38
+	},
+	{
+		"name": "Noelle",
+		"points": 100
+	},
+	{
+		"name": "Aimil",
+		"points": 50
+	},
+	{
+		"name": "Lynde",
+		"points": 56
+	},
+	{
+		"name": "Valli",
+		"points": 75
+	},
+	{
+		"name": "Pierette",
+		"points": 47
+	},
+	{
+		"name": "Odessa",
+		"points": 1
+	},
+	{
+		"name": "Romona",
+		"points": 1
+	},
+	{
+		"name": "Kylynn",
+		"points": 95
+	},
+	{
+		"name": "Debee",
+		"points": 40
+	},
+	{
+		"name": "Winifred",
+		"points": 86
+	},
+	{
+		"name": "Winny",
+		"points": 46
+	},
+	{
+		"name": "Korrie",
+		"points": 53
+	},
+	{
+		"name": "Albertina",
+		"points": 88
+	},
+	{
+		"name": "Raquela",
+		"points": 60
+	},
+	{
+		"name": "Lucille",
+		"points": 64
+	},
+	{
+		"name": "Krystle",
+		"points": 71
+	},
+	{
+		"name": "Clary",
+		"points": 83
+	},
+	{
+		"name": "Kate",
+		"points": 5
+	},
+	{
+		"name": "Caritta",
+		"points": 66
+	},
+	{
+		"name": "June",
+		"points": 60
+	},
+	{
+		"name": "Devina",
+		"points": 56
+	},
+	{
+		"name": "Sara-Ann",
+		"points": 51
+	},
+	{
+		"name": "Alisha",
+		"points": 7
+	},
+	{
+		"name": "Jeanna",
+		"points": 23
+	},
+	{
+		"name": "Susan",
+		"points": 19
+	},
+	{
+		"name": "Lanae",
+		"points": 100
+	},
+	{
+		"name": "Ariela",
+		"points": 42
+	},
+	{
+		"name": "Pollyanna",
+		"points": 6
+	},
+	{
+		"name": "Moyna",
+		"points": 10
+	},
+	{
+		"name": "Frances",
+		"points": 96
+	},
+	{
+		"name": "Cassandra",
+		"points": 84
+	},
+	{
+		"name": "Korrie",
+		"points": 7
+	},
+	{
+		"name": "Catharine",
+		"points": 74
+	},
+	{
+		"name": "Yetty",
+		"points": 14
+	},
+	{
+		"name": "Carlie",
+		"points": 64
+	},
+	{
+		"name": "Amelia",
+		"points": 25
+	},
+	{
+		"name": "Yetty",
+		"points": 63
+	},
+	{
+		"name": "Letizia",
+		"points": 65
+	},
+	{
+		"name": "Starla",
+		"points": 97
+	},
+	{
+		"name": "Wilma",
+		"points": 53
+	},
+	{
+		"name": "Emylee",
+		"points": 7
+	},
+	{
+		"name": "Mady",
+		"points": 12
+	},
+	{
+		"name": "Fanny",
+		"points": 61
+	}
+]
